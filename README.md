@@ -1,1 +1,1 @@
-nminhducit.github.io/credit-card-checkout/
+[nminhducit.github.io/credit-card-checkout/](https://nminhducit.github.io/credit-card-checkout/)
