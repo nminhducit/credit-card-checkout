@@ -1,1 +1,1 @@
-https://nminhducit.github.io/credit-card-checkout/
+nminhducit.github.io/credit-card-checkout/
